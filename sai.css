@@ -4,22 +4,23 @@
     }
     
     .dd{
-        margin-top: 6rem;
+        margin-top: 12rem;
     }
     .f{
         margin-top: 12rem;
     }
     .gl{
-        margin-top: 6rem;
+        margin-top:2rem;
         grid-template-columns: 400px;
-        gap: 1rem;
+        row-gap: 2rem;
     }
     .vc{
-        margin-top: 16rem;
+        margin-top: 25rem;
     }
     .nb{
-        margin-top: 13rem;
+        margin-top: 22rem;
 
     }
+   
    
 }
