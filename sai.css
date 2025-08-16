@@ -2,50 +2,24 @@
     html{
         font-size: 31.25%;
     }
-    .bz{
-        max-width: 31.25%;
-        width: 90%;
-    }
-    .container{
-        width: 31.25%;
-        height: 31.25%;
-    }
-    .main{
-        width: 31.25%;
-        height: 31.25%;
-    }
-    .c1{
-        gap: 31.25%;
-    }
+    
     .dd{
-        margin-top: 31.25%;
-        gap: 31.25%;
-    }
-    .gg{
-        width: 31.25%;
+        margin-top: 6rem;
     }
     .f{
-        margin-top: 31.25%;
-    }
-    .cc{
-        width: 31.25%;
-        height: 31.25%;
-    }
-    .gl{
-        margin-top: 31.25%;
-        width: 31.25%;
-        grid-template-columns: 31.25% 31.25%;
-        grid-template-rows: 31.25% 31.25% 31.25%;
-        gap: 31.25%;
-    }
-    .vc{
-        margin-top: 31.25%;
-    }
-    .nb{
         margin-top: 12rem;
     }
-    .db{
-        width: 31.25%;
+    .gl{
+        margin-top: 6rem;
+        grid-template-columns: 400px;
+        gap: 1rem;
     }
+    .vc{
+        margin-top: 16rem;
+    }
+    .nb{
+        margin-top: 13rem;
 
+    }
+   
 }
